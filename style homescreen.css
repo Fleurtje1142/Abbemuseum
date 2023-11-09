@@ -16,7 +16,8 @@
 #leftColum {
     width: 630px;
     float: left;
-    margin-top: 150px;
+    margin-top: 30px;
+    margin-left: 15px;
 }
 
 #rightColum {
