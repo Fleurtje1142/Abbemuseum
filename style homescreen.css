@@ -1,20 +1,22 @@
 #box {
-    height: 90px;
+    height: 100px;
     background: #87b792;
     padding: 14px 0px 0px 0px;
+    
 }
 
 #Abbe {
     color: #ffffff;
     font-family: glory;
-   text-align: center;
+    text-align: center;  
+
 
 }
 
 #leftColum {
-    width: 600px;
+    width: 630px;
     float: left;
-    margin-top: 50px;
+    margin-top: 150px;
 }
 
 #rightColum {
