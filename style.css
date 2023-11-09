@@ -15,6 +15,7 @@
     width: 600px;
     float: left;
     margin-top: 50px;
+    
 }
 
 #rightColum {
@@ -31,7 +32,7 @@
     border-radius: 5px;
     padding: 15px;
     margin-bottom: 20px;
-    margin-left: 60px;
+    margin-left: 15px;
 }
 
 #text {
